@@ -42,7 +42,7 @@ body {
   display: flex;
   flex-direction: column;
   gap: 10px;
-  flex-basis: 50%;
+  flex-basis: 20%;
 }
 
 .portfolio-header-image {
@@ -54,7 +54,7 @@ body {
   display: flex;
   flex-direction: column;
   gap: 34px;
-  flex-basis: 50%;
+  flex-basis: 80%;
 }
 
 
